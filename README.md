@@ -2,7 +2,7 @@
 This repo has  the codes of my academic project sonar.
 Author - Akshaya Sekar
 <br>
-
+# This is a basic code used at the time of my learning arduino.
 #include<Servo.h>
 
 #define trigPin 8
